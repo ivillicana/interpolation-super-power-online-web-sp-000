@@ -1,4 +1,4 @@
 require 'pry'
-def display_rainbow(colors binding.pry)
+def display_rainbow
  binding.pry
 end
